@@ -1,6 +1,7 @@
 {
   "item.spitemod.testobj": "TEST OBJECT",
   "block.spitemod.test_block": "TEST BLOCK",
+  "block.spitemod.test_ore": "TEST ORE",
 
   "itemgroup.spite": "Spite Group"
 }

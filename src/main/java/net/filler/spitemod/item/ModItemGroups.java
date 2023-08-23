@@ -19,6 +19,8 @@ public class ModItemGroups {
 
                         entries.add(ModBlocks.TEST_BLOCK);
 
+                        entries.add(ModBlocks.TEST_ORE);
+
                     }).build());
     public static void registerItemGroups() {
         SpiteMod.LOGGER.info("Registering Item Groups for " + SpiteMod.MOD_ID);
