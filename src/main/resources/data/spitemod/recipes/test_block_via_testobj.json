@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+      "###",
+      "# #",
+      "###"
+  ],
+    "key": {
+      "#": {
+        "item": "spitemod:testobj"
+      }
+    },
+    "result": {
+      "item": "spitemod:test_block"
+    }
+}

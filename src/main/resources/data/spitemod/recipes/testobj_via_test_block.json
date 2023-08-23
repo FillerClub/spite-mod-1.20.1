@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "ingredients": [
+    {
+      "item": "spitemod:test_block"
+    }
+  ],
+  "result": {
+    "item": "spitemod:testobj",
+    "count": 8
+
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:blasting",
+  "category": "misc",
+  "cookingtime": 10,
+  "experience": 7,
+  "group": "bedrock",
+  "ingredient": {
+    "item": "spitemod:test_block"
+  },
+  "result": "minecraft:bedrock"
+}
