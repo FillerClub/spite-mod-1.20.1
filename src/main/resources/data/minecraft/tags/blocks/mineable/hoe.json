@@ -2,6 +2,7 @@
   "replace": false,
   "values": [
     "spitemod:test_block",
+    "spitemod:test_block_usable",
     "spitemod:test_ore"
   ]
 }

@@ -1,7 +1,14 @@
 {
   "item.spitemod.testobj": "TEST OBJECT",
   "block.spitemod.test_block": "TEST BLOCK",
+  "item.spitemod.test_usable": "TEST USABLE",
+  "item.spitemod.test_edible": "TEST EDIBLE",
+  "item.spitemod.test_fuel": "TEST FUEL",
   "block.spitemod.test_ore": "TEST ORE",
+  "block.spitemod.test_block_usable": "TEST BLOCK USABLE",
 
-  "itemgroup.spite": "Spite Group"
+  "itemgroup.spite": "Spite Mod",
+
+  "tooltip.spitemod.test_usable.tooltip": "Die",
+  "tooltip.spitemod.test_block_usable.tooltip": "I couldn't get this one to work"
 }

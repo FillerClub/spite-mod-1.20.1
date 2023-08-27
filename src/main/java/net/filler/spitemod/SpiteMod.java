@@ -2,6 +2,7 @@ package net.filler.spitemod;
 
 import net.fabricmc.api.ModInitializer;
 
+import net.fabricmc.fabric.api.registry.FuelRegistry;
 import net.filler.spitemod.block.ModBlocks;
 import net.filler.spitemod.item.ModItemGroups;
 import net.filler.spitemod.item.ModItems;
@@ -19,5 +20,7 @@ public class SpiteMod implements ModInitializer {
 
 		ModItemGroups.registerItemGroups();
 		ModItems.registerModItems();
+
+		FuelRegistry.INSTANCE.add(ModItems.TEST_FUEL, 100);
 	}
 }

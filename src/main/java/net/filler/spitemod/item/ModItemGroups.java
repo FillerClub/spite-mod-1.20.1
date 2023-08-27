@@ -16,8 +16,12 @@ public class ModItemGroups {
             FabricItemGroup.builder().displayName(Text.translatable("itemgroup.spite"))
                     .icon(() -> new ItemStack(ModItems.TEST)).entries((displayContext, entries) -> {
                         entries.add(ModItems.TEST);
+                        entries.add(ModItems.TEST_USABLE);
+                        entries.add(ModItems.TEST_EDIBLE);
+                        entries.add(ModItems.TEST_FUEL);
 
                         entries.add(ModBlocks.TEST_BLOCK);
+                        entries.add(ModBlocks.TEST_BLOCK_USABLE);
 
                         entries.add(ModBlocks.TEST_ORE);
 
